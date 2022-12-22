@@ -5,7 +5,7 @@
 # 👋 &nbsp;Hi, I'm Lamia Belkacem
 
 <ul>
-<li>🔭 I’m currently working on a personal app project that will allow easily gather pertinent information for new parents!</li>
+<li>🔭 I’m currently working on a personal app project!</li>
 <li>🌱 I’m currently learning React, New SEO Trends</li>
 <li>💬 Ask me about SEO and data analysis</li>
 </ul>
